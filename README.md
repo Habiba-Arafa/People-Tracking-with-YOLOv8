@@ -3,9 +3,9 @@
 
 This project demonstrates real-time people tracking in videos using the [YOLOv8](https://github.com/ultralytics/ultralytics) object detection model, with a custom lightweight tracking logic for assigning stable person IDs and visualizing their motion paths.
 
-## 📸 Example Output
+##  Example Output
 
-![Sample Output](f3fd806c-1687-4c23-aa8c-bb793ff0101a.png)
+![Uploading image.png…]()
 
 ---
 
