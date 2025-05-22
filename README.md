@@ -5,7 +5,8 @@ This project demonstrates real-time people tracking in videos using the YOLOv8 o
 
 ##  Example Output
 
-<!-- Uploading "cv_img.jpeg"... -->
+![Image](https://github.com/user-attachments/assets/a5885935-de82-4609-843e-d38c6cd289b9)
+
 
 ---
 
