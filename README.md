@@ -5,7 +5,7 @@ This project demonstrates real-time people tracking in videos using the YOLOv8 o
 
 ##  Example Output
 
-
+<!-- Uploading "cv_img.jpeg"... -->
 
 ---
 
@@ -33,11 +33,6 @@ pip install -q deep_sort_realtime
 1. Place your input video in the project directory and rename it `input.mp4`.
 2. Run the Python script. It will generate an annotated output video named `output_video.mp4`.
 
-```python
-# Replace with your input/output paths
-input_video_path = '/content/input.mp4'
-output_video_path = 'output_video.mp4'
-```
 
 ---
 
